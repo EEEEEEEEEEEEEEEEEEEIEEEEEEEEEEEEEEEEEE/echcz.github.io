@@ -116,10 +116,10 @@ friends: [
   title: "Bigdata Blog",
   href: "http://bigdata-blog.net/"
 },{
-  title: "廖雪峰的官方网站"
+  title: "廖雪峰的官方网站",
   href: "https://www.liaoxuefeng.com/"
 },{
-  title: "阮一锋的网络日志"
+  title: "阮一锋的网络日志",
   href: "http://www.ruanyifeng.com/blog/"
 }
 ]
