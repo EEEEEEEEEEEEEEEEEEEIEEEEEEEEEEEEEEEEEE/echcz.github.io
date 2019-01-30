@@ -13,7 +13,6 @@ multilingual: false
     <option value="0" selected> 中文 Chinese </option>
     <option value="1"> 英文 English </option>
 </select>
-{% endif %}
 
 <!-- Chinese Version -->
 <div class="zh post-container">
@@ -22,10 +21,14 @@ multilingual: false
 </div>
 
 <!-- English Version -->
-{% if page.multilingual %}
 <div class="en post-container">
     {% capture about_en %}{% include about/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
+</div>
+{% else %}
+<div class="post-container">
+    {% capture about_content %}{% include about/content.md %}{% endcapture %}
+    {{ about_content | markdownify }}
 </div>
 {% endif %}
 
