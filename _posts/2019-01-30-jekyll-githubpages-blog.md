@@ -10,6 +10,7 @@ tags:
   - "Jekyll"
 ---
 
+{% raw %}
 ## 相关概念
 
 ### Jekyll 介绍
@@ -123,3 +124,5 @@ Jekyll会自己监测项目文件，自动更新站点，方便调试；如果�
 * 关于 Jekyll 的说明与文档可以访问 [Jekyll](https://jekyllrb.com/) 或 [JekyllCN](https://jekyllcn.com/)
 * 关于 Github Page 的说明与文档可以访问 [Github Pages](https://pages.github.com/)
 * Jekyll 使用了 Liquid 模版引擎，关于 Liquid 的说明与文档可以访问 [Liquid Wiki](https://github.com/Shopify/liquid/wiki) 或 [简书-一曲广陵散-Liquid语法](https://www.jianshu.com/p/4224b8ea0ec0)
+
+{% endraw %}
