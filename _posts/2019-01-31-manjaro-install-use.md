@@ -4,7 +4,7 @@ title: "Manjaro 安装与使用教程"
 subtitle: "欢迎使用Linux系统"
 date: 2019-01-31 01:10:00
 author: "Echcz"
-header-img: "/img/in-post/2019-01-31-manjaro-install-use.jpg"
+header-img: "img/in-post/2019-01-31-manjaro-install-use.jpg"
 catalog: true
 tags:
   - "Manjaro"

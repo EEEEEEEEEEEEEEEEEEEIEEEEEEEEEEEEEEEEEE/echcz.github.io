@@ -43,7 +43,7 @@ title: "" #文章标题
 subtitle: "" #文章副标题
 date: 2006-01-02 15:04:05 #文章发表时间
 author: "" #作者
-header-img: "/img/..." #文章头图路径
+header-img: "img/..." #文章头图路径
 header-style: "" #头部类型，可选："", "text"
 catalog: true #是否显示目录
 multilingual: true #是否多语言
