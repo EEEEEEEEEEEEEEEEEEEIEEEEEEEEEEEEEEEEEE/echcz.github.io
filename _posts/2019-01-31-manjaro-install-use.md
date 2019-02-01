@@ -223,7 +223,7 @@ XDG_VIDEOS_DIR="$HOME/Videos"
 
 | 名称 | 程序名 | 说明 | 备注 |
 |:--:|:-- |:-- |:-- |
-| zsh | zsh | 超好用的 shell | [文档](https://github.com/robbyrussell/oh-my-zsh/wiki) [segmentfault-MichaelXoX-zsh+on-my-zsh配置教程指南](https://segmentfault.com/a/1190000013612471) |
+| zsh | zsh | 超好用的 shell | [文档](https://github.com/robbyrussell/oh-my-zsh/wiki) ; [segmentfault-MichaelXoX-zsh+on-my-zsh配置教程指南](https://segmentfault.com/a/1190000013612471) |
 | 红移 | redshift | 在指定时间段自动调节屏幕色温 | [Archlinux-wiki-Redshift](https://wiki.archlinux.org/index.php/Redshift) |
 | Catfish | catfish | 多功能文件搜索工具 |  |
 | Grsync | grsync | 文件/文件夹同步软件 |  |
@@ -232,7 +232,7 @@ XDG_VIDEOS_DIR="$HOME/Videos"
 | Shadowsocks-Qt5 | shadowsocks-qt5 | Sock v5 客户端，用于配置代理 |  |
 | google-chrome | google-chrome | 谷歌浏览器 |  |
 | Thunderbird | thunderbird | 邮件或新闻阅读软件 | 系统默认已安装 |
-| aria2 | aria2 | 下载器，支持 HTTP(S)，FTP，SFTP，BitTorrent和Metalink 协议 | [Aria2 Manual](https://aria2.github.io/manual/en/html/aria2c.html) [Archlinux-wiki-aria2](https://wiki.archlinux.org/index.php/aria2) [简书-zephyrous-Aria2配置详解](https://www.jianshu.com/p/6adf79d29add)  |
+| aria2 | aria2 | 下载器，支持 HTTP(S)，FTP，SFTP，BitTorrent和Metalink 协议 | [Aria2 Manual](https://aria2.github.io/manual/en/html/aria2c.html) ; [Archlinux-wiki-aria2](https://wiki.archlinux.org/index.php/aria2) ; [简书-zephyrous-Aria2配置详解](https://www.jianshu.com/p/6adf79d29add)  |
 | uGet | uget | 强大的下载软件，比迅雷更强，推荐搭配 aria2 使用 | uGet 使用 aria2：编辑 > 设置 > 插件 > 插件匹配顺序：aria2; URI：http://localhost:6800/jsonrpc；参数：--enable-rpc=true -D --disable-ipv6 --check-certificate=false |
 | FileZilla | filezilla | FTP，FTPS，SFTP 文件上传下载器 |  |
 | GUN 图像处理程序 | gimp | 相当于 Windows 下的 Photoshop | [官方文档](https://docs.gimp.org/2.10/zh_CN/) |
@@ -250,7 +250,8 @@ XDG_VIDEOS_DIR="$HOME/Videos"
 
 ## 参考链接
 
-学习 Linux 可以访问 [鸟哥的 Linux 私房菜](http://linux.vbird.org/)
-更多关于 Manjaro 可以访问 [Manjaro 官网](https://manjaro.org/)
-Manjaro 是 Archlinux 的发行版，想要用好他，你当然需要访问 [Archlinux-wiki](https://wiki.archlinux.org/)
+* 学习 Linux 可以访问 [鸟哥的 Linux 私房菜](http://linux.vbird.org/)
+* 更多关于 Manjaro 可以访问 [Manjaro 官网](https://manjaro.org/)
+* Manjaro 是 Archlinux 的发行版，想要用好他，你当然需要访问 [Archlinux-wiki](https://wiki.archlinux.org/)
+
 {% endraw %}
