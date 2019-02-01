@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "使用Jekyll + Github Pages搭建个人博客"
-subtitle: "每个程序员者应该有一个自己的个人博客"
+subtitle: "每个程序员都应该有一个自己的个人博客"
 date: 2019-01-30 18:28:16
 author: "Echcz"
 header-style: "text"
