@@ -32,7 +32,7 @@ anchorjs: true                          # if you want to customize anchor. check
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 timezone: CN
 # excerpt separator for generated excerpt
-excerpt_separator: "\n\n"
+excerpt_separator: "\n\n\n"
 
 
 
