@@ -4,7 +4,7 @@ title: "Gradle 快速入门"
 subtitle: "JVM 世界的富有突破性的构建工具"
 date: 2019-02-06 22:05:00
 author: "Echcz"
-header-img: "img/in-post/2019-01-31-manjaro-install-use.jpg"
+header-img: "img/in-post/2019-02-06-gradle-quick-start.png"
 catalog: true
 tags:
   - "Gradle"
