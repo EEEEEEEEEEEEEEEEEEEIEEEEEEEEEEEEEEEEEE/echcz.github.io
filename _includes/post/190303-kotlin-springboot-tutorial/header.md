@@ -7,3 +7,4 @@ Spring Boot 以其`起步依赖`和`自动装配`的特性，解决了 Spring �
 ## 专题列表
 
 * [Kotlin + Spring Boot 简明教程 - 1.第一个例子]({{ site.baseurl }}/2019/03/03/kotlin-springboot-tutorial-1/)
+* [Kotlin + Spring Boot 简明教程 - 2.使用配置属性类与多环境配置]({{ site.baseurl }}/2019/03/08/kotlin-springboot-tutorial-2/)
