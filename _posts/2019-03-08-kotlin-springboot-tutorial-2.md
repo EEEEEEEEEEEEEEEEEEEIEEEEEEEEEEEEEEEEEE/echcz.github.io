@@ -9,6 +9,9 @@ catalog: true
 previous:
   url: "2019/03/03/kotlin-springboot-tutorial-1/"
   title: "Kotlin + Spring Boot 简明教程 - 1.第一个例子"
+next:
+  url: "2019/03/09/kotlin-springboot-tutorial-3/"
+  title: "Kotlin + Spring Boot 简明教程 - 3.使用 Swagger2 构建 RESTful API 文档"
 tags:
   - "Web"
   - "Kotlin"
